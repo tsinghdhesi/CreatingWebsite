@@ -1,0 +1,32 @@
+body {
+    background: #dddbb4;
+    height: 100vh;
+    color: #82b5b5;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#infoBox {
+    width: fit-content;
+    height: fit-content;
+    background-color: rgba(0, 88, 54, 0.777);
+    border: 3px solid green;
+    padding: 3px;
+    margin: 5px;
+}
+
+.prof{
+    width: 100pt;
+    height: 100pt;
+    position: relative;
+    margin-right: 200px;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+}
