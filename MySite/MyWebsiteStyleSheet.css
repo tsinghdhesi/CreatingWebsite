@@ -10,7 +10,12 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-#infoBox {
+#box{
+    background-color: #82b5b5;
+    width: 100px;
+    height: 300px;
+}
+.infoBox {
     width: fit-content;
     height: fit-content;
     background-color: rgba(0, 88, 54, 0.777);
